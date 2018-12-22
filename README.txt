@@ -27,4 +27,4 @@ CYKA BLYAT
 
 Executable and full script available.
 
-Have fun and use this program at your own risk. Please do not use this code if you have a malicious intent.
+Have fun and use this program at your own risk. Please do not use this code maliciously.
