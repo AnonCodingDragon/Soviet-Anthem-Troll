@@ -26,5 +26,5 @@ CYKA BLYAT
 (Soviet Anthem opens)
 
 Executable and full script available.
-
-Have fun and use this program at your own risk. Please do not use this code maliciously.
+Have fun and use this program at your own risk.
+Please do not use this code maliciously.
